@@ -1,2 +1,2 @@
-# mas-insta-web
+# Web Development Insta
 Contains insta gifs
